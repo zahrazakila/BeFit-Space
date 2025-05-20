@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* Fonts */
+    --font-inter: Inter;
+    
+    /* font sizes */
+    --font-size-5xl: 24px;
+    
+    /* Colors */
+    --color-dimgray: #515151;
+    
+    /* Border radiuses */
+    --br-mini: 15px;
+    
+}
