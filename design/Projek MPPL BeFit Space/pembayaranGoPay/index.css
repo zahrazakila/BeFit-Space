@@ -1,0 +1,256 @@
+.group-child {
+    position: absolute;
+    top: 249.5px;
+    left: 0px;
+    background-color: rgba(217, 217, 217, 0.5);
+    width: 1443px;
+    height: 1101px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443px;
+    height: 149.5px;
+}
+.group-inner {
+    position: absolute;
+    top: 21.5px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.pembayaran {
+    position: absolute;
+    top: 153.5px;
+    left: 49px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    background-color: var(--color-orange);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 250px;
+    height: 64px;
+}
+.bayar {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 40px);
+    font-weight: 600;
+}
+.rectangle-group {
+    position: absolute;
+    top: 1235.5px;
+    left: 595px;
+    width: 250px;
+    height: 64px;
+    cursor: pointer;
+    color: var(--color-white);
+}
+.pilih-metode-pembayaran {
+    position: absolute;
+    top: 277.5px;
+    left: calc(50% - 621.5px);
+    font-size: 36px;
+}
+.group-child1 {
+    position: absolute;
+    top: 349.5px;
+    left: 100px;
+    box-shadow: 0px 4px 10px 5px rgba(171, 171, 171, 0.5) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 1250px;
+    height: 150px;
+}
+.vector-icon {
+    position: absolute;
+    top: 404.5px;
+    left: 153px;
+    width: 135px;
+    height: 40.7px;
+}
+.line-div {
+    position: absolute;
+    top: 374px;
+    left: 299.5px;
+    border-right: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 1px;
+    height: 100px;
+}
+.bank-mandiri {
+    margin: 0;
+    font-weight: 500;
+}
+.p {
+    margin: 0;
+    color: var(--color-gray-100);
+}
+.bank-mandiri-18-container {
+    position: absolute;
+    top: 380.5px;
+    left: 349px;
+}
+.group-icon {
+    position: absolute;
+    top: 399.5px;
+    left: 1250px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.group-child2 {
+    position: absolute;
+    top: 550.5px;
+    left: 100px;
+    box-shadow: 0px 4px 10px 5px rgba(171, 171, 171, 0.5) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 1250px;
+    height: 150px;
+}
+.group-child3 {
+    position: absolute;
+    top: 575px;
+    left: 299.5px;
+    border-right: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 1px;
+    height: 100px;
+}
+.bank-bca-10-container {
+    position: absolute;
+    top: 581.5px;
+    left: 349px;
+}
+.group-child4 {
+    position: absolute;
+    top: 600.5px;
+    left: 1250px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.group-child5 {
+    position: absolute;
+    top: 750.5px;
+    left: 100px;
+    box-shadow: 0px 4px 10px 5px rgba(171, 171, 171, 0.5) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 1250px;
+    height: 150px;
+}
+.gopay-090 {
+    position: absolute;
+    top: 781.5px;
+    left: 349px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 810.5px;
+    left: 1260px;
+    border-radius: 50%;
+    background-color: var(--color-orange);
+    border: 1px solid var(--color-orange);
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+}
+.group-child6 {
+    position: absolute;
+    top: 800.5px;
+    left: 1250px;
+    border-radius: 50%;
+    border: 1px solid var(--color-orange);
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
+}
+.jumlah-pembayaran {
+    margin: 0;
+}
+.jumlah-pembayaran-biaya-container {
+    position: absolute;
+    top: 960.5px;
+    left: 100px;
+    line-height: 60px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.5);
+}
+.rp99999999-rp2000-rp100199-container {
+    position: absolute;
+    top: 960.5px;
+    left: 1168px;
+    line-height: 60px;
+    font-weight: 600;
+}
+.group-child7 {
+    position: absolute;
+    top: 1110px;
+    left: 99.5px;
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    width: 1251px;
+    height: 1px;
+}
+.bca-icon {
+    position: absolute;
+    top: 584.5px;
+    left: 126px;
+    width: 130px;
+    height: 81px;
+}
+.group-child8 {
+    position: absolute;
+    top: 775px;
+    left: 299.5px;
+    border-right: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 1px;
+    height: 100px;
+}
+.gopay-logo-png1-icon {
+    position: absolute;
+    top: 796.5px;
+    left: 148px;
+    width: 145px;
+    height: 57px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 1.5px;
+    left: 0px;
+    width: 1443px;
+    height: 1350.5px;
+}
+.pembayaran-gopay-inner {
+    position: absolute;
+    top: -2px;
+    left: 0px;
+    width: 1443px;
+    height: 1026px;
+    overflow-y: auto;
+}
+.pembayaran-gopay {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+}
+
