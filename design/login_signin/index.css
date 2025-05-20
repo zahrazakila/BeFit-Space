@@ -1,0 +1,85 @@
+.be-fit-space {
+    position: absolute;
+    top: 120px;
+    left: calc(50% - 200px);
+    font-size: 64px;
+}
+.chatgpt-image-3-mei-2025-182 {
+    position: absolute;
+    top: 272px;
+    left: calc(50% - 205px);
+    width: 410px;
+    height: 410px;
+    object-fit: cover;
+}
+.stay-fit-stay {
+    position: absolute;
+    top: 233px;
+    left: calc(50% - 172px);
+    font-size: 32px;
+    color: #fffcfc;
+    display: inline-block;
+    width: 345px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 92.5px);
+    border-radius: 15px;
+    background-color: #ffb703;
+    width: 179px;
+    height: 53px;
+}
+.sign-up {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 47.5px);
+    display: inline-block;
+    width: 140px;
+    height: 24px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 741px;
+    left: calc(50% - 89px);
+    width: 185px;
+    height: 53px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000;
+}
+.sudah-punya-akun {
+    position: absolute;
+    top: 830px;
+    left: 572px;
+    display: inline-block;
+    width: 295px;
+}
+.login {
+    position: absolute;
+    top: 830px;
+    left: 809px;
+    display: inline-block;
+    width: 58px;
+    cursor: pointer;
+}
+.login-signin-child {
+    position: absolute;
+    top: 19px;
+    left: 21px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.login-signin {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #00121b, #023047);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+}
+
