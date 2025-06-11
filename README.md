@@ -57,9 +57,7 @@ routes/web.php        # Routing aplikasi
 ## ✅ Roadmap Pengembangan
 
 * [x] Sistem registrasi & login
-* [ ] Fitur jadwal kelas
-* [ ] Dashboard admin & user
-* [ ] Integrasi pembayaran online
-* [ ] Mobile responsive view
-* [ ] Pencatatan progres otomatis
-
+* [x] Fitur jadwal kelas
+* [x] Dashboard admin & user
+* [x] Integrasi pembayaran online
+* [x] Mobile responsive view
