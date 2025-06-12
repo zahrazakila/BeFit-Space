@@ -57,13 +57,13 @@
 
                     <div x-data="{ isHovered: {{ $isFeatured ? 'true' : 'false' }} }" @mouseenter="isHovered = true"
                         @mouseleave="isHovered = {{ $isFeatured ? 'true' : 'false' }}"
-                        class="relative flex flex-col rounded-3xl transition-all duration-300 ease-in-out transform {{ $isFeatured ? 'ring-2 ring-[#FFB703]' : 'ring-1 ring-gray-200 dark:ring-gray-700' }}"
+                        class="relative flex flex-col rounded-3xl transition-all duration-300 ease-in-out transform {{ $isFeatured ? 'ring-2 ring-[#FFB703]' : 'ring-1 ring-black-200 dark:ring-gray-700' }}"
                         :class="{
                             'scale-105 shadow-xl': isHovered,
                             'scale-100': !isHovered,
                             'bg-gradient-to-b from-[#023047] to-[#034263]': isHovered &&
                                 {{ $isFeatured ? 'true' : 'false' }},
-                            'bg-white dark:bg-gray-800': !isHovered || {{ $isFeatured ? 'false' : 'true' }}
+                            'bg-gray-50 dark:bg-gray-800': !isHovered || {{ $isFeatured ? 'false' : 'true' }}
                         }">
 
                         <!-- Featured Badge -->
@@ -106,7 +106,7 @@
 
                             <!-- Duration Badge -->
                             <div class="inline-flex items-center rounded-full bg-gray-100 dark:bg-gray-700 px-2.5 py-0.5 text-xs font-medium mb-4"
-                                :class="{ 'bg-[#023047]/30 text-gray-200': isHovered && {{ $isFeatured ? 'true' : 'false' }} }">
+                                :class="{ 'bg-[#023047]/30 text-black-200': isHovered && {{ $isFeatured ? 'true' : 'false' }} }">
                                 {{ $months }} bulan
                             </div>
 
