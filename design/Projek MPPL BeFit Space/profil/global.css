@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* Fonts */
+    --font-inter: Inter;
+    
+    /* font sizes */
+    --font-size-5xl: 24px;
+    
+    /* Colors */
+    --color-black: #000;
+    --color-darkgray: #ababab;
+    --color-orange: #ffb703;
+    --color-white: #fff;
+    
+    /* Border radiuses */
+    --br-31xl: 50px;
+    
+}

@@ -1,0 +1,212 @@
+.settings-child {
+    position: absolute;
+    top: -0.5px;
+    left: 0px;
+    width: 1443px;
+    height: 149.5px;
+}
+.settings-item {
+    position: absolute;
+    top: 21px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.settings1 {
+    position: absolute;
+    top: 154px;
+    left: 50px;
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.settings-inner {
+    position: absolute;
+    top: 304px;
+    left: 49px;
+    border-top: 2px solid var(--color-silver);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.account {
+    position: absolute;
+    top: 255px;
+    left: 110px;
+    font-size: var(--font-size-13xl);
+    font-weight: 600;
+    color: var(--color-black);
+}
+.change-password {
+    position: absolute;
+    top: 349px;
+    left: 49px;
+    line-height: 20px;
+}
+.social {
+    position: absolute;
+    top: 412px;
+    left: 49px;
+    line-height: 20px;
+}
+.language {
+    position: absolute;
+    top: 470px;
+    left: 49px;
+    line-height: 20px;
+}
+.privacy-and-security {
+    position: absolute;
+    top: 533px;
+    left: 49px;
+    line-height: 20px;
+}
+.notification {
+    position: absolute;
+    top: 646px;
+    left: 111px;
+    font-size: var(--font-size-13xl);
+    font-weight: 600;
+    color: var(--color-black);
+}
+.line-div {
+    position: absolute;
+    top: 695px;
+    left: 49px;
+    border-top: 2px solid var(--color-silver);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.new-for-you {
+    position: absolute;
+    top: 740px;
+    left: 49px;
+    line-height: 20px;
+}
+.account-activity {
+    position: absolute;
+    top: 803px;
+    left: 49px;
+    line-height: 20px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 250px;
+    height: 64px;
+}
+.sign-out {
+    position: absolute;
+    top: 19px;
+    left: 67px;
+    font-weight: 600;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 905px;
+    left: 595px;
+    width: 250px;
+    height: 64px;
+    cursor: pointer;
+    color: var(--color-black);
+}
+.vector-icon {
+    position: absolute;
+    top: 349px;
+    left: 1330px;
+    width: 20px;
+    height: 23px;
+}
+.settings-child1 {
+    position: absolute;
+    top: 412px;
+    left: 1330px;
+    width: 20px;
+    height: 23px;
+}
+.settings-child2 {
+    position: absolute;
+    top: 470px;
+    left: 1330px;
+    width: 20px;
+    height: 23px;
+}
+.settings-child3 {
+    position: absolute;
+    top: 533px;
+    left: 1330px;
+    width: 20px;
+    height: 23px;
+}
+.toggle-switch-child {
+    width: 24px;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    height: 24px;
+}
+.toggle-switch {
+    position: absolute;
+    top: 745px;
+    left: 1287px;
+    border-radius: var(--br-81xl);
+    background-color: var(--color-gray);
+    border: 1px solid var(--color-darkgray-200);
+    box-sizing: border-box;
+    width: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-9xs);
+}
+.toggle-switch1 {
+    position: absolute;
+    top: 807px;
+    left: 1287px;
+    border-radius: var(--br-81xl);
+    background-color: var(--color-gray);
+    border: 1px solid var(--color-darkgray-200);
+    box-sizing: border-box;
+    width: 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-9xs);
+}
+.sound-icon {
+    position: absolute;
+    top: 646px;
+    left: 50px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.user-icon {
+    position: absolute;
+    top: 250px;
+    left: 48px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.settings {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkgray-100);
+    font-family: var(--font-inter);
+}
+

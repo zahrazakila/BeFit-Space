@@ -1,0 +1,459 @@
+.latihan-3x-child {
+    position: absolute;
+    top: 345px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.latihan-3x-item {
+    position: absolute;
+    top: 1185px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.latihan-3x-inner {
+    position: absolute;
+    top: 1986px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 1749px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.latihan-3x-child1 {
+    position: absolute;
+    top: 2586px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443px;
+    height: 149.5px;
+}
+.group-item {
+    position: absolute;
+    top: 21.5px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.latihan {
+    position: absolute;
+    top: 154.5px;
+    left: 50px;
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-inner {
+    position: absolute;
+    top: 200.5px;
+    left: 379px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: var(--br-31xl);
+    background-color: #ffb703;
+    width: 280px;
+    height: 80px;
+}
+.x-seminggu {
+    position: absolute;
+    top: 220.5px;
+    left: 417px;
+    font-weight: 600;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: var(--br-31xl);
+    background-color: rgba(171, 171, 171, 0.26);
+    width: 280px;
+    height: 80px;
+}
+.x-seminggu1 {
+    position: absolute;
+    top: 20px;
+    left: 38px;
+    font-weight: 600;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 200.5px;
+    left: 781px;
+    width: 280px;
+    height: 80px;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.3);
+}
+.group-child2 {
+    position: absolute;
+    top: 320.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 520px;
+}
+.pemanasan-5-menit {
+    margin-bottom: 0px;
+}
+.incline-dumbbell-press {
+    color: var(--color-slategray);
+}
+.overhead-tricep-extension {
+    color: var(--color-sandybrown);
+}
+.opsional- {
+    color: var(--color-black);
+}
+.pemanasan-5-menit-incline-du {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+}
+.pemanasan-5-menit-container {
+    position: absolute;
+    top: 459.5px;
+    left: 114px;
+    font-size: var(--font-size-5xl);
+    line-height: var(--font-size-21xl);
+    color: var(--color-black);
+}
+.dada {
+    color: rgba(2, 48, 71, 0.68);
+}
+.bahu {
+    color: var(--color-dimgray-200);
+}
+.trisep {
+    color: rgba(251, 133, 0, 0.65);
+}
+.target-otot-container {
+    position: absolute;
+    top: 409.5px;
+    left: 94px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-child3 {
+    position: absolute;
+    top: 320.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-1 {
+    position: absolute;
+    top: 336.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child4 {
+    position: absolute;
+    top: 920.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 160px;
+}
+.istirahat {
+    position: absolute;
+    top: 1021.5px;
+    left: calc(50% - 65.5px);
+    font-weight: 600;
+    color: var(--color-tomato);
+}
+.group-child5 {
+    position: absolute;
+    top: 920.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-2 {
+    position: absolute;
+    top: 936.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child6 {
+    position: absolute;
+    top: 1160.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 480px;
+}
+.incline-biscep-curl {
+    color: var(--color-dimgray-100);
+}
+.pemanasan-5-menit-container1 {
+    position: absolute;
+    top: 1299.5px;
+    left: 114px;
+    font-size: var(--font-size-5xl);
+    line-height: var(--font-size-21xl);
+    color: var(--color-black);
+}
+.target-otot-container1 {
+    position: absolute;
+    top: 1249.5px;
+    left: 94px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-child7 {
+    position: absolute;
+    top: 1160.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-3 {
+    position: absolute;
+    top: 1176.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child8 {
+    position: absolute;
+    top: 1961.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 519px;
+}
+.pemanasan-5-menit-container2 {
+    position: absolute;
+    top: 2100.5px;
+    left: 114px;
+    font-size: var(--font-size-5xl);
+    line-height: var(--font-size-21xl);
+    color: var(--color-black);
+}
+.target-otot-container2 {
+    position: absolute;
+    top: 2050.5px;
+    left: 94px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-child9 {
+    position: absolute;
+    top: 1961.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-5 {
+    position: absolute;
+    top: 1977.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child10 {
+    position: absolute;
+    top: 1724.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 160px;
+}
+.istirahat1 {
+    position: absolute;
+    top: 1825.5px;
+    left: calc(50% - 65.5px);
+    font-weight: 600;
+    color: var(--color-tomato);
+}
+.group-child11 {
+    position: absolute;
+    top: 1724.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-4 {
+    position: absolute;
+    top: 1740.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child12 {
+    position: absolute;
+    top: 2561.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 160px;
+}
+.istirahat2 {
+    position: absolute;
+    top: 2662.5px;
+    left: calc(50% - 65.5px);
+    font-weight: 600;
+    color: var(--color-tomato);
+}
+.group-child13 {
+    position: absolute;
+    top: 2561.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-6 {
+    position: absolute;
+    top: 2577.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.group-child14 {
+    position: absolute;
+    top: 2801.5px;
+    left: 80px;
+    box-shadow: 0px 5px 20px 10px rgba(2, 48, 71, 0.15);
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkslategray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 160px;
+}
+.istirahat3 {
+    position: absolute;
+    top: 2902.5px;
+    left: calc(50% - 65.5px);
+    font-weight: 600;
+    color: var(--color-tomato);
+}
+.group-child15 {
+    position: absolute;
+    top: 2801.5px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslategray-100);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1280px;
+    height: 80px;
+}
+.day-7 {
+    position: absolute;
+    top: 2817.5px;
+    left: 664px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+}
+.vector-parent {
+    position: absolute;
+    top: -0.5px;
+    left: 0px;
+    width: 1443px;
+    height: 2961.5px;
+}
+.frame-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443px;
+    height: 1021px;
+    overflow-y: auto;
+}
+.latihan-3x-child2 {
+    position: absolute;
+    top: 2826px;
+    left: 1280px;
+    background-color: var(--color-white);
+    width: 30px;
+    height: 30px;
+}
+.latihan-3x {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+}
+

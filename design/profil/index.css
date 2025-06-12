@@ -1,0 +1,221 @@
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443px;
+    height: 149.5px;
+}
+.group-item {
+    position: absolute;
+    top: 21.5px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+.settings-icon {
+    position: absolute;
+    top: 20.5px;
+    left: 1321px;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.edit-profile {
+    position: absolute;
+    top: 154.5px;
+    left: 49px;
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-inner {
+    position: absolute;
+    top: 237.5px;
+    left: calc(50% - 101.5px);
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    background-color: var(--color-orange);
+    border: 3px solid var(--color-white);
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    opacity: 0.8;
+}
+.ellipse-div {
+    position: absolute;
+    top: 386.5px;
+    left: 750px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    background-color: #023047;
+    border: 3px solid var(--color-white);
+    box-sizing: border-box;
+    width: 70px;
+    height: 70px;
+}
+.n {
+    position: absolute;
+    top: 282.5px;
+    left: 685px;
+    font-size: 96px;
+    color: var(--color-black);
+}
+.full-name {
+    position: absolute;
+    top: 495.5px;
+    left: 50px;
+}
+.line-div {
+    position: absolute;
+    top: 589.5px;
+    left: 49px;
+    background-color: #cbcbcb;
+    border-top: 2px solid #c5c5c5;
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.e-mail {
+    position: absolute;
+    top: 645.5px;
+    left: 50px;
+}
+.group-child1 {
+    position: absolute;
+    top: 740.5px;
+    left: 49px;
+    border-top: 2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.password {
+    position: absolute;
+    top: 796.5px;
+    left: 50px;
+}
+.group-child2 {
+    position: absolute;
+    top: 891.5px;
+    left: 49px;
+    border-top: 2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.number {
+    position: absolute;
+    top: 945.5px;
+    left: 50px;
+}
+.group-child3 {
+    position: absolute;
+    top: 1040.5px;
+    left: 49px;
+    border-top: 2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.gender {
+    position: absolute;
+    top: 1095.5px;
+    left: 50px;
+}
+.group-child4 {
+    position: absolute;
+    top: 1190.5px;
+    left: 49px;
+    border-top: 2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.paket-member-13612bln {
+    position: absolute;
+    top: 1245.5px;
+    left: 50px;
+}
+.group-child5 {
+    position: absolute;
+    top: 1340.5px;
+    left: 49px;
+    border-top: 2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1302px;
+    height: 2px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 1400.5px;
+    left: 421px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: var(--br-31xl);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 250px;
+    height: 64px;
+}
+.cancel {
+    position: absolute;
+    top: 1419.5px;
+    left: 497px;
+    font-weight: 600;
+    color: var(--color-black);
+}
+.group-child6 {
+    position: absolute;
+    top: 1400.5px;
+    left: 772px;
+    box-shadow: 0px 5px 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: var(--br-31xl);
+    background-color: var(--color-orange);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 250px;
+    height: 64px;
+}
+.save {
+    position: absolute;
+    top: 1419.5px;
+    left: 866px;
+    font-weight: 600;
+    color: var(--color-white);
+}
+.vector-parent {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 1443px;
+    height: 1464.5px;
+}
+.profil-inner {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 1443px;
+    height: 1025px;
+    overflow-y: auto;
+}
+.pencil-icon {
+    position: absolute;
+    top: 397px;
+    left: 760px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.profil {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkgray);
+    font-family: var(--font-inter);
+}
+

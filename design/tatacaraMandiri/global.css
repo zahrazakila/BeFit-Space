@@ -1,0 +1,17 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* Fonts */
+    --font-inter: Inter;
+    
+    /* Colors */
+    --color-black: #000;
+    --color-darkslategray: #023047;
+    
+}
