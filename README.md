@@ -167,7 +167,7 @@ npm run dev
 
 | Email                                       | Password |
 | ------------------------------------------- | -------- |
-| [admin@befit.test](mailto:admin@befit.test) | password123 |
+| [admin@befit.test](mailto:admin@befit.test) | password/password123 |
 
 ---
 
