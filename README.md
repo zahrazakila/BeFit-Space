@@ -1,61 +1,178 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🏋️‍♀️ Be-Fit Space – Sistem Manajemen Gym Modern
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://raw.githubusercontent.com/zahrazakila/BeFit-Space/main/public/img/logo.png" width="150" alt="Be-Fit Space Logo">
 </p>
 
-## About Laravel
+<p align="center">
+  <strong>Platform web modern untuk mengelola operasional gym, membership, dan interaksi digital dengan member.</strong>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<hr>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🔍 Tentang Proyek
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+**Be-Fit Space** adalah aplikasi web berbasis **Laravel 11** yang dikembangkan untuk mendigitalisasi manajemen gym. Menggunakan **Tailwind CSS** dan **Alpine.js**, aplikasi ini menghadirkan antarmuka yang dinamis, responsif, dan ramah pengguna.
 
-## Learning Laravel
+Proyek ini terbagi menjadi dua bagian utama:
+- **Halaman publik**: untuk promosi dan informasi gym.
+- **Dashboard pengguna dan admin**: untuk manajemen data dan interaksi digital.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🚀 Fitur Unggulan
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### 🔓 Untuk Pengguna
+- **Landing Page & Informasi Umum**  
+  Tampilan modern yang menyajikan informasi gym, layanan, dan kontak.
+  
+- **Pendaftaran & Pembelian Paket Membership**  
+  Alur pendaftaran lengkap yang terintegrasi dengan sistem pembayaran.
 
-## Laravel Sponsors
+- **Integrasi Midtrans (Sandbox)**  
+  Mendukung berbagai metode pembayaran secara online dan real-time.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- **Dashboard Member**  
+  Member bisa memantau status membership, histori pembayaran, dan masa berlaku.
 
-### Premium Partners
+- **QR Code Akses Masuk**  
+  Otomatisasi akses masuk gym dengan QR code unik yang bisa diunduh dan dibagikan.
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+### 🛠️ Untuk Admin
+- **Dashboard Statistik**  
+  Menampilkan data seperti pendapatan, jumlah member aktif, dan statistik pendaftar baru.
 
-## Contributing
+- **Manajemen Membership**  
+  Melihat dan mengelola data seluruh member terdaftar.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- **Manajemen Paket**  
+  CRUD untuk paket-paket langganan gym.
 
-## Code of Conduct
+- **Manajemen Lead Free Trial**  
+  Melihat dan menindaklanjuti form pendaftar free trial.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+## 🧰 Teknologi yang Digunakan
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- **Backend**: Laravel 11, PHP 8.2+
+- **Frontend**: Tailwind CSS, Alpine.js
+- **Database**: MySQL
+- **Asset Bundler**: Vite
+- **Payment Gateway**: Midtrans (Sandbox)
+- **QR Code**: NPM package `qrcode`
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 🛠️ Panduan Instalasi (Localhost)
+
+### 📋 Prasyarat
+- PHP 8.2+
+- Composer
+- Node.js & NPM
+- MySQL
+- Git & Ngrok
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/zahrazakila/BeFit-Space.git
+cd BeFit-Space
+````
+
+### 2. Install Dependensi
+
+```bash
+composer install
+npm install
+```
+
+### 3. Setup File Environment
+
+```bash
+cp .env.example .env
+php artisan key:generate
+```
+
+### 4. Dapatkan API Key Midtrans
+
+1. Daftar di [Midtrans Sandbox](https://dashboard.sandbox.midtrans.com/register)
+2. Buka **Settings > Access Keys**
+3. Tambahkan ke `.env`:
+
+```env
+MIDTRANS_MERCHANT_ID=...
+MIDTRANS_CLIENT_KEY=...
+MIDTRANS_SERVER_KEY=...
+MIDTRANS_IS_PRODUCTION=false
+MIDTRANS_IS_SANITIZED=true
+MIDTRANS_IS_3DS=true
+```
+
+### 5. Konfigurasi Database
+
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=befit_space
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+### 6. Jalankan Migrasi & Seeder
+
+```bash
+php artisan migrate --seed
+```
+
+### 7. Jalankan Server & Ngrok
+
+**Terminal 1**:
+
+```bash
+php artisan serve
+```
+
+**Terminal 2**:
+
+```bash
+ngrok http 8000
+```
+
+Salin URL HTTPS dari Ngrok.
+
+### 8. Konfigurasi Webhook Midtrans
+
+1. Masuk ke Dashboard Midtrans.
+2. Buka **Settings > Configuration**
+3. Isi **Payment Notification URL**:
+
+```
+https://xxxxxx.ngrok-free.app/api/midtrans/notification
+```
+
+4. Klik **Save**.
+
+### 9. Jalankan Vite
+
+**Terminal 3**:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔐 Akun Admin Default
+
+| Email                                       | Password |
+| ------------------------------------------- | -------- |
+| [admin@befit.test](mailto:admin@befit.test) | password123 |
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
+
+---
